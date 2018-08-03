@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>bullet.png</file>
+        <file>tank.png</file>
+        <file>enemy.png</file>
+        <file>metal.bmp</file>
+        <file>stone.bmp</file>
+        <file>water.bmp</file>
+        <file>broken_stone.png</file>
+        <file>shrub.bmp</file>
+        <file>shrub.png</file>
+        <file>base.gif</file>
+        <file>time_stop.bmp</file>
+        <file>unbeatable.bmp</file>
+        <file>barrier.bmp</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>map1.txt</file>
+    </qresource>
+</RCC>
